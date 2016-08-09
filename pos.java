@@ -7,7 +7,7 @@ Scanner s=new Scanner(System.in);
 int a=s.nextInt();
 if(a>0)
 {
-System.out.println("postive")
+System.out.println("postive");
 }else
 System.out.println("negative");
 }
