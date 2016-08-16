@@ -9,6 +9,7 @@ class revers
 		StringBuffer sb=new StringBuffer(a);
 		sb=sb.reverse();
 a=sb.toString();	
+System.out.println(a);
 a=a.replaceAll("([aeiouAEIOU])","")	;
 System.out.println(a);
 	}
