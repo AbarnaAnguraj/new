@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class ip {
+public class ipaddr {
 
 	public static void main(String[] args) {
 		Scanner s=new Scanner(System.in);
